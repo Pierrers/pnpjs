@@ -4,7 +4,7 @@ Through the REST api you are able to call a subset of the SP.Utilities.Utility m
 
 ## sendEmail
 
-This methods allows you to send an email based on the supplied arguments. The method takes a single argument, a plain object defined by the EmailProperties interface (shown below).
+This methods allows you to send an email to the users of the same tenant based on the supplied arguments. The method takes a single argument, a plain object defined by the EmailProperties interface (shown below).
 
 ### EmailProperties
 
